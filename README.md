@@ -1,6 +1,6 @@
 Navigaatio
 ==========
-Jees jees, homma rullaa! Kloonit tehty ja koko ryhmä on ajantasalla.
+Jees jees, homma rullaa! Kloonit tehty ja koko ryhmä on ajantasalla. T. Peppe
 
 Tiedosto Harjoitus3 lisätty. T:Rami
 
