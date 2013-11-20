@@ -9,5 +9,8 @@ Käyttötapauksia:
     -> automaattisesti lataa lukkarin.
 - Käyttäjä voi hakea haluamansa paikan.
   -> Paikan valittua ohjelma pin pointaa käyttäjän ja näyttää lyhimmän reitin määränpäähän.
-- Käyttäjä voi liikkua streetviewissä vapaasti.
-- 
+- Käyttäjä voi liikkua streetview-näkymässä vapaasti.
+
+Toiminnalliset vaatimukset:
+- Järjestelmä vaatii nettiyhteyden
+
