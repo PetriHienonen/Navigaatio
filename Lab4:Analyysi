@@ -1,0 +1,28 @@
+http://www.kuluttajavirasto.fi/File/b281eed0-15e6-4543-8edc-a0d210081d01/Ekstranettien%20vaatimusm%C3%A4%C3%A4rittely.pdf
+1. Johdanto
+Analisoimme ekstranettien vaatimusmäärittely dokumenttia.Dokumentti on tarkoitettu eri kilpailu- ja kuluttajavirastoille.
+Dokumentin tilanne ja motivaatia on, että ekstranettejä eli verkkouudistuksia päivitetään samanlaisin työkaluin kuin KKV:n verkkopalvelua.
+Idea olisi luoda ekstranetistä helppokäyttöisempi. Dokuemntin rakenne on vaatimusmäärittely, eli tarkoitus olisi näyttää millaiseksi ekstranetin verkkouudistukset päivittyisi.
+
+2. Käyttötapaukset
+Ekstranetin käyttötarkoitus on toimia firmansisäisenä verkkopalveluna. Mahdollistaa täten paremman tietoturvan, jne. Dokumentissa ei ole käyttötapakaavioita.
+Dokumentissa on käyttötapaukset selostettu lyhyesti ja turvauduttu kuvankaappauksiin. Jokaisesta halutuista sivuista on oma screenshot.
+Dokumentissa on erittäin mukava skenaario, sillä ekstranetti haluaa verkkouudistuksien kautta samalaiset verkkopalvelut kuin KKV:llä.
+
+3. Järjestelmän yleisrakenne
+Dokumentissa käytetään vaatimuskaavioita. Niillä halutaan tuoda esille tulevat verkkouudistukset ja niiden erityisvaatimukset.
+
+4. funktionaaliset & ei-funktinaaliset vaatimukset
+Vaatimusmäärittelyssä esitetään eritysvaatimukset listauksena. Käyttökokemuskuvat on numeroitu ja tunnistetietoja ei ole.
+Käyttökokemuskuvista voidaan jäljitellä ja suunnitella käyttökokemukset. Käyttäjäkokemusten perusteilla voidaan mitata verkkouudistusten onnistuminen.
+
+5. Miltä se näyttää ?
+Käyttöliittymästä löytyy kuvia ja kuvakaappauksia. 
+
+6. Prosessimalli
+Projektimallia ei ole kuvattu. Dokumentissa ei myöskään ilmene resursseja, budjettia tai riskianalyysia.
+
+7. Johtopäätökset
+Hyvän dokumentin tekee: tiivis ja informatiivinen paketti, mikä on järjestelmällinen. 
+Kyseinen dokumentti ei ollut kovinkaan informatiivinen, eikä siitä löytynyt kaikkea tarvittavaa tietoa.
+Kaavioiden käyttö oli rajallista, mutta laatu oli kohtalainen ja hyöty erinomainen. 
