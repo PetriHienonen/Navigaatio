@@ -1,0 +1,13 @@
+B.
+Koulun streetview navigaatio
+Nimi: ClassLocator
+Kuvaus: Google streetview tyylinen navigaatiojärjestelmä leppävaaran metropolia koulun sisätiloista. 
+Käyttötapauksia:
+- Sovellus avautuu ikonista.
+- käyttäjän pitää kirjautua omalla tuubi tunnuksella.
+  -> Täten tunnistaa automaattisesti linjasi ja ryhmäsi.
+    -> automaattisesti lataa lukkarin.
+- Käyttäjä voi hakea haluamansa paikan.
+  -> Paikan valittua ohjelma pin pointaa käyttäjän ja näyttää lyhimmän reitin määränpäähän.
+- Käyttäjä voi liikkua streetviewissä vapaasti.
+- 
