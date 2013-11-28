@@ -42,7 +42,15 @@ Ohjelmiston alkutilassa on kirjautumissivu, josta pääsee etenemään syöttäm
 
 Kun reitti on asetettu, näytölle tulee Google street viewia muistuttava näkymä, eli voit hyppiä kuva kerralla esim. pitkin koulun käytäviä, ja ohjelmisto piirtää sinistä viivaa lattiaan siihen suuntaan mihin ollaan navigoimassa. Perille päästessä näyttöön tulee ilmoitus että kohteeseen on saavuttu. Tämän yhteydessä voi valita haluaako poistua ohjelmasta vai tehdä uuden haun.
 
+3. Järjestelmäarkkitehtuuri
 
+Käyttäjätietokanta
+
+Karttapalvelun käyttäminen (Kuvapankki)
+
+Lukkarikone
+
+Gps navigointi yhdessä karttapalvelun kanssa?
 
 
 
