@@ -1,6 +1,17 @@
 Class locator
 ==========
 
+YO YO YO! Tehdäänkin jokaiseen osioon oma tiedosto eikä kirjoteta kaikkee tähän filuun. BOOM!
+
+
+
+
+
+
+
+
+
+
 Ryhmä:
 Rami Pulkka, Niklas Törnblom, Petri Hienonen, Patrick Gyllebögel
 
