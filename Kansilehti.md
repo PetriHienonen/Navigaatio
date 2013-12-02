@@ -1,4 +1,4 @@
-Class locator
+Classlocator
 ==========
 
 Ryhmä: 
@@ -9,4 +9,4 @@ Patrick Gyllebögel
 
 Ryhmännimi: Navigaatiopojat 
 
-Päiväys: 5.11.2013
+Päiväys: 5.12.2013
