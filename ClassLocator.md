@@ -34,9 +34,9 @@ Päiväys: 5.12.2013
 Käyttötapaukset
 ---------------
 
-Classlocator -ohjelmistoa voi käyttää kaikki joilla on metropolian tunnukset, eli oppilaat ja opettajat.Jaoittelimme 
+Classlocator -ohjelmistoa voi käyttää kaikki joilla on Metropolian tunnukset, eli oppilaat ja opettajat. Jaoittelimme 
 tähän mitä nämä edellä mainitut kaksi käyttäjäryhmää voivat ohjelmistolla tehdä. Metropolian opiskelijat ja opettajat 
-voivat etsiä koulusta luokkaa nimen tai seuraavan oppitunnin mukaan. Ohjelmistossa löytyy kirjautuneen oppilaan oma 
+voivat etsiä koulusta luokkaa nimen tai seuraavan oppitunnin mukaan. Ohjelmistossa löytyy kirjautuneen käyttäjän oma 
 lukujärjestys, jonka avulla voi navigoida itseään luokkaan jossa seuraava oppitunti on. Käyttäjä voi myös etsiä jotain 
 tiettyä varaamatonta luokkaa.
 
@@ -47,20 +47,14 @@ Kaaviossa näytetään miten ohjelmistoa käytetään, askel askeleelta.
 Ohjelmiston alkutilassa on kirjautumissivu, josta pääsee etenemään syöttämällä tunnukset niille tarkoitetulle kentille.
 Seuraavaksi valitaan halutaanko käyttää lukujärjestelmäpohjaista navigointia esim. jos etsitään missä seuraava 
 oppitunti on, tai sitten vapaata luokan hakua jos halutaan vain mennä johonkin tiettyyn luokkaan tekemään 
-kouluprojekteja. Kun haluttu hakuvaihtoehto on valittu, ohjelmisto kysyy GPS-järjestelmän käynnistymisestä/käyttämisestä,
-jos valitaan kyllä, ohjelmisto hakee lähtöpaikan GPSn avulla. Jos taas valitaan ei, lähtöpaikan voi itse kirjoittaa 
-viestikenttään, tai sitten lähtöpaikan voi valita pudotusvalikon listasta. Tämän jälkeen lukujärjestyspohjaisessa 
-valinnassa valitaan seuraava oppitunti, josta ohjelmisto lukee luokan nimen ja asettaa sen päämääräksi. Tämän jälkeen
-painetaan vain hakua, ja ohjelmisto hakee lyhimmän reitin. Manuaalisessa luokan haussa kohdeluokan nimi kirjoitetaan 
-itse tai valitaan pudotuslistasta. Tämän jälkeen painetaan hae-nappia ja navigointi alkaa.
+kouluprojekteja. Kun haluttu hakuvaihtoehto on valittu, ohjelmisto kysyy GPS-järjestelmän käynnistymisestä/käyttämisestä, jos valitaan kyllä, ohjelmisto hakee lähtöpaikan GPSn avulla. Jos taas valitaan ei, lähtöpaikan voi itse kirjoittaa  viestikenttään, tai sitten lähtöpaikan voi valita pudotusvalikon listasta. Tämän jälkeen lukujärjestyspohjaisessa  valinnassa valitaan seuraava oppitunti, josta ohjelmisto lukee luokan nimen ja asettaa sen päämääräksi. Tämän jälkeen painetaan vain hakua, ja ohjelmisto hakee lyhimmän reitin. Manuaalisessa luokan haussa kohdeluokan nimi kirjoitetaan  itse tai valitaan pudotuslistasta. Tämän jälkeen painetaan hae-nappia ja navigointi alkaa.
 
 Kun reitti on asetettu, näytölle tulee Google street viewia muistuttava näkymä, eli voit hyppiä kuvia eteenpäin kohti
 päämäärää pitkin koulun käytäviä painamalla nuolen kuvaa, tai jos käytössä on GPS, kuva päivittyy itsestään muutaman 
 metrin välein. Ohjelmisto piirtää sinistä viivaa lattiaan siihen suuntaan mihin ollaan navigoimassa. Perille päästessä näyttöön tulee ilmoitus että kohteeseen on saavuttu. Tämän yhteydessä voi valita haluaako poistua jossa voi kirjautua ulos ja lopettaa ohjelman painamalla kyllä, tai sitten käyttäjä voi halutessaan palata ohjelmisto etusivulle painamalla ei.
 
-Teimme kaksi erilaista vuokaaviota ohjelmiston toiminnasta. Alapuolella ensimmäinen kaavio kuvaa tapahtumien kulkua 
-kun luokkaa haetaan lukujärjestyksen avulla seuraavaa oppitunnin sijaintia etsiessä. Toinen kaavioista kuvaa luokan
-itse määriteltyä hakua.
+Teimme kaksi erilaista vuokaaviota ohjelmiston toiminnasta. Alapuolella ensimmäinen kaavio kuvaa kuvaa luokan
+itse määriteltyä hakua. Toinen kaavioista kuvaa tapahtumien kulkua kun luokkaa haetaan lukujärjestyksen avulla seuraavaa oppitunnin sijaintia etsiessä.
 
 ![alt text](https://users.metropolia.fi/~niklasto/Git/Kuvat/Luokkahaku.png "Vuokaavio1")
   Kuva selventää ohjelmiston toimintaa yksityiskohtaisesti, kun nagivoidaa kohti päämäärää kun valittuna on luokan haku.
@@ -86,7 +80,7 @@ Karttapalvelun käyttäminen GPS:ssän avulla
 Kun käyttäjä hakee luokkaa hän voi valita laitetaanko GPS päälle vai ei. Mikäli GPS:ssä ei haluta päälle,
 niin käyttäjällä on mahdollisuus valita lähtöpaikka manuaalisesti listasta tai kirjoittaa lähimmän luokan nimi itse. 
 
-Mikäli GPS laitetaan päälle, niin se paikantaa automaattisesti sijaintisi mobiililaitteen avulla. Tämän jälkeen ruudulle
+Mikäli GPS laitetaan päälle, paikantaa se sijaintisi automaattisesti mobiililaitteen avulla. Tämän jälkeen ruudulle
 ilmestyy sininen viiva, jota seuraamalla löytää halutun luokan. Mikäli ei kävele reittiä pitkin, niin laite pyrkii 
 löytämään uuden reitin mahdollisimman nopeasti. Tätä järjestelmää varten on olemassa suuri kuvapankki, ja kun 
 kävelet reittiä pitkin kuva päivittyy aina muutaman metrin välein.
@@ -125,7 +119,7 @@ tarpeeksi isoja ja erillään toisistaan.
 
 4.3 Luotettavuus
 
-Sovelluksen luottettavuuden takaa sen pohjalla toimiva tuubi-porttaali. Luotettavuutta pyritään lisäämään ennen 
+Sovelluksen luottettavuuden takaa sen pohjalla toimiva tuubi-portaali. Luotettavuutta pyritään lisäämään ennen 
 aikaisilla betatestaajilla ja huolellisella toteutuksella. Betatestaajien avulla pystymme korjaamaan mahdolliset 
 virheet ennen sovelluksen julkaisemista. 
 
@@ -140,22 +134,22 @@ Mahdollisia järjestelmävirheitä:
 4.4 Tehokkuus
 
 Sovellus ei tule itsessään olemaan kovinkaan raskas, sillä käyttäjä käytännössä käyttää tuubi-portaalin palvelintilaa
-ja navigoinnissa joko puhelimen omaa internetyhteyttä tai koulun wlanverkkoa. Tehokkuus saadaa varmistettua sovellukseen
-hyvällä suunnittelulla, yksinkertaisella rakenteella ja mahdollisimman helpolla sekä vähäisellä ohjelmistokoodilla. 
+ja navigoinnissa joko puhelimen omaa internetyhteyttä, tai koulun wlanverkkoa. Tehokkuus saadaa varmistettua sovellukseen hyvällä suunnittelulla, yksinkertaisella rakenteella ja mahdollisimman helpolla sekä vähäisellä ohjelmistokoodilla. 
 
 4.5 Muita ei-funktionaalisia vaatimuksia
 
 Ennen sovelluksen toteuttamista pitäisi tietää budjetti. Tämän myötä pystyttäisiin palkkaamaan budjetille sopiva 
 työryhmä ja kartoittamaan aikataulu. Sovelluksen tulee olla toteutettu omalle kohderymälle, eli tässä tapauksessa 
-Metropolian opiskelijoille ja opettajille ketkä asioivat leppävaaran toimipisteessä. Sovellus pitää sisällään ainostaan
+Metropolian opiskelijoille ja opettajille ketkä asioivat Leppävaaran toimipisteessä. Sovellus pitää sisällään ainostaan
 sille tarpeellisia asioita ja sen pitäisi toimia moiteettomasti monella eri mobiilialustalla.
 
 Käyttöliittymä
 ==============
 
 Tässä osiossa esitellään järjestelmän käyttöliittymien näkymät. Näkymät on esitelty käyttötapauksien mukaan ja ovat 
-seuraavalaisia: Ensimmäinen käyttäjätapaus - Navigointi lukujärjestystä käyttäen:
+seuraavalaisia:
 
+Ensimmäinen käyttäjätapaus - Navigointi lukujärjestystä käyttäen:
 ![alt text](http://users.metropolia.fi/~niklasto/Git/Kuvat/Lukkari.png "Lukkari")
 
 Toinen käyttäjätapaus - Navigaatio hakua käyttäen.
@@ -177,10 +171,7 @@ sen verran nopeasti, että niihin ei ole erikseen luotu mitään. Näkymä "vain
     järjestelmästä käyttäjän lukujärjestyksen, synkronoi sen laitteen kellon kanssa (pwm. ja aika) ja siirtää käyttäjän
     lukkarikoneeseen.
 
-Toinen nappi siirtää käyttäjän "luokkahakuun". Tämän  vaihtoehdon valitessa käyttä siirtyy GPS-aktivointi -näkymään, 
-joka on samannäköinen kuin siirryttäessä lukkarikoneen kautta, mutta käyttömerkitys on hieman erilainen (lisää kohdassa
-4.). Kolmas nappi on tarkoitettu ohjelman sulkemiseen, sitä painamalla käyttäjä kirjautuu automaattisesti ulos 
-järjestelmästä ja sulkee ohjelman.
+    - Toinen nappi siirtää käyttäjän "luokkahakuun". Tämän  vaihtoehdon valitessa käyttäjä siirtyy GPS-aktivointi-näkymään, joka on samannäköinen kuin siirryttäessä lukkarikoneen kautta, mutta käyttömerkitys on hieman erilainen (lisää kohdassa 4.). Kolmas nappi on tarkoitettu ohjelman sulkemiseen, sitä painamalla käyttäjä kirjautuu automaattisesti ulos järjestelmästä ja sulkee ohjelman.
 
 + Kolmas näkymä - Lukkarikone (käyttäjätapaus 1)
 
@@ -188,7 +179,7 @@ järjestelmästä ja sulkee ohjelman.
     lukujärjestykseen. Käyttäjä itse näkee lukkarikoneen ja siinä kyseisen viikon lukujärjestyksen. Lukkarikonetta voi
     käyttää normaalisti. Käyttäjä näkee myös kaksi nappia lukkarikoneen alla; 1. Aloita navigaatio, 2. Takaisin. 
 
-Ensimmäisen napin painallus laittaa alulle automaattisen navigaation. Koska järjestelmä on lukkarikonetta aukaistessa
+  - Ensimmäisen napin painallus laittaa alulle automaattisen navigaation. Koska järjestelmä on lukkarikonettaaukaistessa
 jo synkronoinut lukujärjestyksen puhelimen kellon kanssa, aloittaa ohjelma navigoinnin kohti sitä luokkaa, joka on 
 puhelimen kellon ja lukkarikoneen mukaan sillä hetkellä käynnissä. Mikäli haku tehdään sellaiseen aikaan, kun on 
 esimerkiksi "tauko" eli esimerkiksi tunti alkaa vasta 5min kuluttua, osaa järjestelmä valita automaattisesti seuraavan
@@ -200,10 +191,7 @@ painallus aiheuttaa ohjelman siirtymisen takaisin päävalikko-näkymään.
   - Koska useassa älypuhelimessa GPS-käyttö tarvitsee hyväksyä käyttäjän puolesta, kysyy tämäkin ohjelma oikeuksia
     käyttäjältä siihen. Kun navigointi (käyttäjätapaus 1.) on haluttu aloittaa aukeaa siis GPS-aktivointi näkymä. Tässä 
     näkymässä kysytään käyttäjältä yksinkertaisesti, että "aktivoidaanko gps?". Oikeudet voidaan antaa, tai vastaavasti 
-    olla antamatta, "Kyllä" ja "Ei" nappien avulla.  Kyllä napin painallus osoittaa puhelimelle, että käyttäjä on antanut
-    oikeudet kytkeä GPS-päällä, jonka puhelin antaa hyväksynnän ja ohjelma kytkee sen päälle. Ei nappi taas ei anna
-    oikeuksia kytkeä GPS-päälle, ja siirtää käyttäjän takaisin lukkarikoneeseen. GPS-yhteyden valitseminen hakee
-    automaattisesti puhelimen sijainnin.
+    olla antamatta, "Kyllä" ja "Ei" nappien avulla.  Kyllä napin painallus osoittaa puhelimelle, että käyttäjä on antanut oikeudet kytkeä GPS-päällä, jonka puhelin antaa hyväksynnän ja ohjelma kytkee sen päälle. Ei nappi taas ei anna oikeuksia kytkeä GPS-päälle, ja siirtää käyttäjän takaisin lukkarikoneeseen. GPS-yhteyden valitseminen hakee automaattisesti puhelimen sijainnin.
 
   - Käyttäjätapauksessa kaksi (2), jossa haetaan luokkaa valitsemalla päämäärä, tai vaihtoehtoisesti alkupiste ja 
   päämäärä, on mahdollista käyttää navigaatiota ilman GPS-hakua. Mikäli käyttäjä on siis valinnut päävalikkonäkymästä 
