@@ -83,8 +83,8 @@ Mikäli käyttäjä haluaa paikantaa esimerkiksi seuraavan tunnin luokan nopeast
 lukujärjestykseensä. Tässä käyttäjä yhdistetään Tuubin kautta omaan lukkarikoneeseensa. Lukujärjestyksestä voidaan 
 painaa haluttu tunti, jonka jälkeen valitaan aloita navigaatio.
 
- Vaatimukset (jäljitettävässä, (mitattavassa) muodossa)
- ======================================================
+Vaatimukset (jäljitettävässä, (mitattavassa) muodossa)
+======================================================
 
  Funktionaaliset vaatimukset
 ----------------------------
