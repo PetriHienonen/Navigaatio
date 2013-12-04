@@ -252,6 +252,7 @@ painallus aiheuttaa ohjelman siirtymisen takaisin päävalikko-näkymään.
 #Projektin hallinta
 
 Niklas: 
+https://github.com/PetriHienonen/Navigaatio/commits?author=ebioni
 
 - Omalta osaltani meni aikaa noin 7-9 tuntia, kun lasketaan yhteen ne mitä tunneilla tehtiin tämän eteen.
 
@@ -267,6 +268,7 @@ Projekti on mielestäni onnistunut. Saimme tuotteestamme helppokäyttöisen ja y
 -------------------------------------------------------------------------------
 
 Patrick:
+https://github.com/PetriHienonen/Navigaatio/commits?author=patricg
 
 - Työmäärään meni n. 12h.
 
@@ -279,6 +281,7 @@ Patrick:
 -------------------------------------------------------------------------------
 
 Rami:
+https://github.com/PetriHienonen/Navigaatio/commits?author=Rambo-
 
 - työmäärä n. 12h kun lasketaan mukaan kaikki kikkailu.
 
@@ -291,6 +294,7 @@ Rami:
 -------------------------------------------------------------------------------
 
 Petri:
+https://github.com/PetriHienonen/Navigaatio/commits?author=PetriHienonen
 
 - Työmäärään meni noin 12h.
 
