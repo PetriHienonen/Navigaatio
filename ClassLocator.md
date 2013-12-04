@@ -1,5 +1,6 @@
 Classlocator
 ==========
+Leppävaaran Metropolian navigointijärjestelmä
 
 Ryhmä: 
 Rami Pulkka 
@@ -83,8 +84,8 @@ Mikäli käyttäjä haluaa paikantaa esimerkiksi seuraavan tunnin luokan nopeast
 lukujärjestykseensä. Tässä käyttäjä yhdistetään Tuubin kautta omaan lukkarikoneeseensa. Lukujärjestyksestä voidaan 
 painaa haluttu tunti, jonka jälkeen valitaan aloita navigaatio.
 
-Vaatimukset (jäljitettävässä, (mitattavassa) muodossa)
-======================================================
+Vaatimukset 
+============
 
  Funktionaaliset vaatimukset
 ----------------------------
@@ -240,5 +241,67 @@ painallus aiheuttaa ohjelman siirtymisen takaisin päävalikko-näkymään.
       päälle ilmestyy hieman läpiväkyvä "laatikko", joka ilmoittaa, että käyttäjä on saavuttanut päämääränäsä. Tämän
       lisäksi siinä kysytään, että haluaako käyttäjä sulkea ohjelman. Mikäli käyttäjä painaa "Kyllä"-nappia, ohjelma 
       kirjaa käyttäjän ulos ja sulkeutuu. Jos käyttäjä taas painaa "Ei"-nappia, palaa hän alkuvalikkoon.
+
+
+#Projektin hallinta
+
+Niklas: 
+
+- Omalta osaltani meni aikaa noin 7-9 tuntia, kun lasketaan yhteen ne mitä tunneilla tehtiin tämän eteen.
+
+- Työmäärä oli aluksi vaikea arvioida, kun ei osannut käyttää githubia, eikä tiennyt paljon sen opettelemiseen menee aikaa. Githubin käyttö olikin erittäin yksinkertaista, eikä suurempia ongelmia tullut projektin aikana vastaan.
+Aikaa meni eninten tuotteen toimivuuden ja helppokäyttöisyyden miettimiseen, samoin kun erilaisten kaavioiden tekemiseen.
+Työmäärän vähäisyys ja mielekkyys yllätti positiivisesti, varsinkin kun projekti jaettiin 4:lle henkilölle.
+
+- Tulevaisuuden projekteissamme Githubia tullaan varmasti käyttämään. Se säästää aikaa, kun ei tarvitse kokoutua ryhmän kesken mihinkään. Samalla tuotettu teksti tallentuu suoraan verkkoon, niin on se myös ryhmän kesken saatavilla helposti.
+Projekti on mielestäni onnistunut. Saimme tuotteestamme helppokäyttöisen ja yksinkertaisen. Pyrimme selkeyteen ja mahdollisten käyttöongelmien minimoimiseen. Emme luultavasti ostaisi tuotetta enää, sillä löydämme luokat ongelmitta. Tuote on tarkoitettu varmasti lähinnä ensimmäisen vuoden opiskelijoille. Silloin itsellä ainakin oli ongelmia luokkien kanssa.
+
+- Lopputulokseen voi olla tyytyväinen. Kaikki teki työnsä huolella ja työtunnit jakautuivat tasaisesti kaikille. Vaikeuksia oli saada kuvat linkattua Githubiin. Dokumentoinnissa ei juurikaan muita ongelmia ollut.
+
+-------------------------------------------------------------------------------
+
+Patrick:
+
+- Työmäärään meni n. 12h
+
+- Työmäärän arvioiminen oli ensimmäisten labratuntien jälkeen suht tarkkaa. Työmäärä pysyi arvioidussa. Tätä helpotti merkittävästi neljän hengen ryhmä.
+
+- Projekti onnistui mielestäni varsin hyvin tavoitteisiin nähden. Projektin laajuuden ymmärsi vasta tehdessä, kun ohjelman toimintaan ja toiminnallisuuksiin alkoi syventyä huomasikin joutuvansa koko ajan syvemmälle suohon. Toiminnallisuuksien minimointi auttoi tähän. 
+
+- Vaikein osa dokumentoinnissa oli ehkä tuottaa idea tekstiksi, siten että siitä saisi simppelin ja helposti ymmärrettävän. Jaarittelun erottelu asiasillöstä siis taisi ola vaikein osuus. 
+
+-------------------------------------------------------------------------------
+
+Rami:
+
+- työmäärä n. 12h kun lasketaan mukaan kaikki kikkailu
+
+- Työmäärää oli vaikea arvailla, mutta tiesin että työtunteja tulee kulumaan jokunen per henkilö. Saimme kuitenkin yllättävän nopeasti paketin kasaan ja työryhmän projektin kimppuun. Projektiin meni jopa ehkä hieman vähemmän aikaa kun olin aluksi ajatellut.
+
+- En osaa asnoa mitä tekisime toisin, sillä omasta mielestäni projekti oli onistunut. Meillä oli hyvä idea projektille, emmekä lähteneet tavoittelemaan tähtiä ja lopputulos olikin mielestämme onnistunut kaikin puolin. Itse voisin käyttää kyseistä sovellusta mielelläni.
+
+- Kuvien linkkaaminen tuotti aluksi ongelmia, mutta niistä selvittiin. Myös työtuntien/määrän jakamista tasaisesti jokaisen ryhmän henkilön kesken jouduttii hetki miettimään, mutta saimme hommat jaettua ja kaikki olivat tyytyväisiä.   
+ 
+-------------------------------------------------------------------------------
+
+Petri:
+
+- Työmäärään meni noin 12h.
+
+- Aluksi oli vaikea arvailla paljonko työmäärään kuluisi aikaa, mutta saimme kuitenki heti ensimmäisessä labrassa kartoitettua työmäärät jokaiselle. Loppujen lopuksi aikaa kului yllättävän vähän verrattuna siihen mihin kaikki olivat varautuneet.
+
+- Mielestäni projekti sujui mallikkaasti alusta loppuun. Saimme jaettua työt ja muut tarvittavat hommat hyvin heti alussa ja täten pääsimme työntouhuun välittömästi. Lopputulos on mielestäni onnistunut ja tuote on käyttökelpoinen kaikille koulussa asioiville, joten kyllä ostaisin tuotteen.
+
+- En kohdannut miltein mitään ongelmia koko projektin aikana, ainoa asia mitä piti vähänä tutkia oli kuvien lisääminen githubiin.  
+
+-------------------------------------------------------------------------------
+
+Yhteenveto:
+
+Projektiin kului n. 12h per henkilö. Työmäärän arvioiminen oli miltein selvä heti ensimmäisen labratunnin jälkeen ja työtunnit jakautuivat suht tasaisesti ryhmän kesken. Mikä positiivista huomasimme työn lopussa että olimme pysyneet hyvin aikataulussa ja työtunnit olivat miltein samat mitä olimme aluksi arvioineet. Tämän projektin perusteella emme tekisi tulevissa projekteissa juuri mitään toisin, sillä kaikki hoitui erittäin mallikkaasti. Työnjako, työtunnit ja yhteinen panostus projektiin oli erittäin ihailtavaa ja täten pääsimme haluttuun lopputulokseen. Tuotteestamme tuli innovatiivinen ja erittäin kilpailukykyinen. Dokumentoinnissa emme kohdanneet suuria ongelmia, kuitenkin jos jotain haluamme ottaa esille niin kuvien esillepanossa oli hetkellisiä ongelmia. 
+
+-------------------------------------------------------------------------------
+
+
 
 
