@@ -1,13 +1,9 @@
 Classlocator
 ==========
 <br>
-<br>
-<br>
+
 Leppävaaran Metropolian navigointijärjestelmä
 
-<br>
-<br>
-<br>
 <br>
 
 Ryhmä: <br>
@@ -17,19 +13,17 @@ Petri Hienonen <br>
 Patrick Gyllebögel
 
 <br>
-<br>
-<br>
-<br>
 
 Ryhmännimi: Navigaatiopojat 
 
 <br>
-<br>
-<br>
-<br>
 
 Päiväys: 5.12.2013
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
