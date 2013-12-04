@@ -1,6 +1,14 @@
 Classlocator
 ==========
+<br>
+<br>
+<br>
 Leppävaaran Metropolian navigointijärjestelmä
+
+<br>
+<br>
+<br>
+<br>
 
 Ryhmä: 
 Rami Pulkka 
@@ -8,10 +16,28 @@ Niklas Törnblom
 Petri Hienonen 
 Patrick Gyllebögel
 
+<br>
+<br>
+<br>
+<br>
+
 Ryhmännimi: Navigaatiopojat 
+
+<br>
+<br>
+<br>
+<br>
 
 Päiväys: 5.12.2013
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 Käyttötapaukset
 ---------------
