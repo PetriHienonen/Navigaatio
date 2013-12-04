@@ -146,7 +146,7 @@ sille tarpeellisia asioita ja sen pitäisi toimia moiteettomasti monella eri mob
 Käyttöliittymä
 ==============
 
-Tässä osiossa esitellään järjestelmän käyttöliittymien näkymät. Näkymät on esitelty käyttötapauksien mukaan ja ovat 
+Tässä osiossa esitellään järjestelmän käyttöliittymien näkymät (osa näkymistä on mainittu kahteen kertaan [esim. näkymä 4], koska näkymät ovat eri käyttäjätapauksissa erilaisia). Näkymät on esitelty käyttötapauksien mukaan ja ovat 
 seuraavalaisia:
 
 Ensimmäinen käyttäjätapaus - Navigointi lukujärjestystä käyttäen:
