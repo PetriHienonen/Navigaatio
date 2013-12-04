@@ -12,14 +12,6 @@ Niklas Törnblom <br>
 Petri Hienonen <br>
 Patrick Gyllebögel
 
-<br>
-
-
-
-
-
-
-
 Ryhmännimi: Navigaatiopojat 
 
 <br>
