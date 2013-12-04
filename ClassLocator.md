@@ -251,8 +251,9 @@ painallus aiheuttaa ohjelman siirtymisen takaisin päävalikko-näkymään.
 
 #Projektin hallinta
 
-Niklas: 
-https://github.com/PetriHienonen/Navigaatio/commits?author=ebioni
+Niklas:<br>
+https://github.com/PetriHienonen/Navigaatio/commits?author=ebioni<br>
+https://github.com/PetriHienonen/Navigaatio/blob/master/3.%20J%C3%A4rjestelm%C3%A4arkkitehtuuri.md
 
 - Omalta osaltani meni aikaa noin 7-9 tuntia, kun lasketaan yhteen ne mitä tunneilla tehtiin tämän eteen.
 
@@ -267,8 +268,9 @@ Projekti on mielestäni onnistunut. Saimme tuotteestamme helppokäyttöisen ja y
 
 -------------------------------------------------------------------------------
 
-Patrick:
-https://github.com/PetriHienonen/Navigaatio/commits?author=patricg
+Patrick:<br>
+https://github.com/PetriHienonen/Navigaatio/commits?author=patricg<br>
+https://github.com/PetriHienonen/Navigaatio/blob/master/5.%20K%C3%A4ytt%C3%B6liittym%C3%A4.md
 
 - Työmäärään meni n. 12h.
 
@@ -280,8 +282,10 @@ https://github.com/PetriHienonen/Navigaatio/commits?author=patricg
 
 -------------------------------------------------------------------------------
 
-Rami:
-https://github.com/PetriHienonen/Navigaatio/commits?author=Rambo-
+Rami:<br>
+https://github.com/PetriHienonen/Navigaatio/commits?author=Rambo-<br>
+https://github.com/PetriHienonen/Navigaatio/blob/master/2.%20K%C3%A4ytt%C3%B6tapaukset.md<br>
+https://github.com/PetriHienonen/Navigaatio/blob/master/Johdanto.md
 
 - työmäärä n. 12h kun lasketaan mukaan kaikki kikkailu.
 
@@ -293,8 +297,9 @@ https://github.com/PetriHienonen/Navigaatio/commits?author=Rambo-
  
 -------------------------------------------------------------------------------
 
-Petri:
-https://github.com/PetriHienonen/Navigaatio/commits?author=PetriHienonen
+Petri:<br>
+https://github.com/PetriHienonen/Navigaatio/commits?author=PetriHienonen<br>
+https://github.com/PetriHienonen/Navigaatio/blob/master/4.%20Vaatimukset.md
 
 - Työmäärään meni noin 12h.
 
