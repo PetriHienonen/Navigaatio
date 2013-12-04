@@ -268,7 +268,7 @@ Projekti on mielestäni onnistunut. Saimme tuotteestamme helppokäyttöisen ja y
 
 Patrick:
 
-- Työmäärään meni n. 12h
+- Työmäärään meni n. 12h.
 
 - Työmäärän arvioiminen oli ensimmäisten labratuntien jälkeen suht tarkkaa. Työmäärä pysyi arvioidussa. Tätä helpotti merkittävästi neljän hengen ryhmä.
 
@@ -280,7 +280,7 @@ Patrick:
 
 Rami:
 
-- työmäärä n. 12h kun lasketaan mukaan kaikki kikkailu
+- työmäärä n. 12h kun lasketaan mukaan kaikki kikkailu.
 
 - Työmäärää oli vaikea arvailla, mutta tiesin että työtunteja tulee kulumaan jokunen per henkilö. Saimme kuitenkin yllättävän nopeasti paketin kasaan ja työryhmän projektin kimppuun. Projektiin meni jopa ehkä hieman vähemmän aikaa kun olin aluksi ajatellut.
 
