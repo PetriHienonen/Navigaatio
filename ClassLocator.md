@@ -10,10 +10,10 @@ Leppävaaran Metropolian navigointijärjestelmä
 <br>
 <br>
 
-Ryhmä: 
-Rami Pulkka 
-Niklas Törnblom 
-Petri Hienonen 
+Ryhmä: <br>
+Rami Pulkka <br>
+Niklas Törnblom <br>
+Petri Hienonen <br>
 Patrick Gyllebögel
 
 <br>
