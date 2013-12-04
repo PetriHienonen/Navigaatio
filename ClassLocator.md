@@ -12,7 +12,8 @@ Ryhmännimi: Navigaatiopojat
 Päiväys: 5.12.2013
 
 
-2. Käyttötapaukset
+Käyttötapaukset
+---------------
 
 Classlocator -ohjelmistoa voi käyttää kaikki joilla on metropolian tunnukset, eli oppilaat ja opettajat.Jaoittelimme 
 tähän mitä nämä edellä mainitut kaksi käyttäjäryhmää voivat ohjelmistolla tehdä. Metropolian opiskelijat ja opettajat 
@@ -49,8 +50,11 @@ itse määriteltyä hakua.
 ![alt text](https://users.metropolia.fi/~niklasto/Git/Kuvat/Lukkarihaku.png "Vuokaavio2")
   Kuva kertoo kuinka ohjelmisto toimii kun valitaan lukujärjestyksen tarkastelu ja navigointi lukkarikoneen kautta.
 
+Järjestelmäarkkitehtuuri
+=======================
 
 Käyttäjätietokanta
+------------------
 
 Käyttäjinä toimivat Leppävaaran Metropolia ammattikorkeakoulun opiskelijat ja opettajat. 
 ClassLocator:iin kirjaudutaan Tuubi-tunnuksilla, jonka avulla järjestelmä tunnistaa käyttäjän. 
@@ -58,6 +62,7 @@ Opiskelija-ja opettajarekisteri löytyy Metropolian omasta järjestelmästä.
 
 
 Karttapalvelun käyttäminen GPS:ssän avulla
+-------------------------------------------
 
 Kun käyttäjä hakee luokkaa hän voi valita laitetaanko GPS päälle vai ei. Mikäli GPS:ssä ei haluta päälle,
 niin käyttäjällä on mahdollisuus valita lähtöpaikka manuaalisesti listasta tai kirjoittaa lähimmän luokan nimi itse. 
@@ -72,19 +77,23 @@ kysyy: "Missä kerroksessa olet?" Tätä ongelmaa ei ole kun lähtöpaikka valit
 tunnistaa luokan minkä edestä lähdetään. 
 
 Lukkarikone
+--------------
 
 Mikäli käyttäjä haluaa paikantaa esimerkiksi seuraavan tunnin luokan nopeasti, valitaan aluksi lukkari, joka vie hänet
 lukujärjestykseensä. Tässä käyttäjä yhdistetään Tuubin kautta omaan lukkarikoneeseensa. Lukujärjestyksestä voidaan 
 painaa haluttu tunti, jonka jälkeen valitaan aloita navigaatio.
 
-4. Vaatimukset (jäljitettävässä, (mitattavassa) muodossa)
+ Vaatimukset (jäljitettävässä, (mitattavassa) muodossa)
+ ======================================================
 
-4.1 Funktionaaliset vaatimukset
+ Funktionaaliset vaatimukset
+----------------------------
 
 ![alt text](http://users.metropolia.fi/~petrihie/Funktionaaliset%20vaatimukset.jpg "Table")
 
 
 Ei-funktionaaliset järjestelmävaatimukset
+----------
 
 4.2 Helppokäyttöisyys
 
@@ -121,6 +130,9 @@ Ennen sovelluksen toteuttamista pitäisi tietää budjetti. Tämän myötä pyst
 työryhmä ja kartoittamaan aikataulu. Sovelluksen tulee olla toteutettu omalle kohderymälle, eli tässä tapauksessa 
 Metropolian opiskelijoille ja opettajille ketkä asioivat leppävaaran toimipisteessä. Sovellus pitää sisällään ainostaan
 sille tarpeellisia asioita ja sen pitäisi toimia moiteettomasti monella eri mobiilialustalla.
+
+Käyttöliittymä
+==============
 
 Tässä osiossa esitellään järjestelmän käyttöliittymien näkymät. Näkymät on esitelty käyttötapauksien mukaan ja ovat 
 seuraavalaisia: Ensimmäinen käyttäjätapaus - Navigointi lukujärjestystä käyttäen:
