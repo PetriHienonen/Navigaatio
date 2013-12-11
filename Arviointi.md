@@ -38,7 +38,7 @@ https://github.com/dahtuska/Ohjelmistotuotannon-projekti/blob/master/Vaatimusm%C
  - Johdanto on hyvä ja selkeä. Se kertoo lyhyesti, mutta ytimekkäästi siitä, minkälainen sovellus on kyseessä.
 Sisältö on asiallista ja tehtävänannon mukaista. Parasta tässä osiossa on yksinkertaisuus ja se, että sovelluksen  toimivuudesta saa helposti kopin. Emme löytäneet heikompaa osaa.
 
- - Käyttötapauksia oli esitelty erittäin laajasti, esimerkkejä oli paljon ja ne olivat erilaisia. Kuvat olivat selkeitä ja täynnä tietoa.
+ - Käyttötapauksia oli esitelty erittäin laajasti, esimerkkejä oli paljon ja ne olivat erilaisia. Kuvat olivat selkeitä ja täynnä tietoa. Emme löytännet osiosta mitää heikkouksia.
  
  - Käyttöliittymä on esitelty selkeästi. Sisältö on tehtävänannon mukainen ja laajuudeltaan hyvä, sillä se esittelee kaikki (perus)käyttäjän näkemät näkymät. Osiossa mainitaan vielä järjestelmänvalvojalle näkyvä "feed" -näkymä, joka oltaisiin myös voitu kuvata muutenkin kuin vain sanallisesti.
  
