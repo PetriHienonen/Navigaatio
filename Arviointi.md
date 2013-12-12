@@ -44,11 +44,8 @@ Sisältö on asiallista ja tehtävänannon mukaista. Parasta tässä osiossa on 
  
  - Projektissa on käytetty yksinkertaista laatikkomallia järjestelmäarkkitehtuurista. Se on kyllä selkeä, mutta kuvan alapuolelle olisi voinut kirjoittaa hieman enemmän tekstiä, selkeyttääkseen kuvan tapahtumia. 
  
+- Vaatimukset on eritelty ja listattu todella kattavasti ja teknisesti (ehkä liiankin asiakkaan kannalta). Hyvää on monipuolisuus, huonona puolena juurikin, ehkä liiallinen tarkkuus. Negatiivisena asiana ehkä se, että tärkeimpiä vaatimuksia ei erota, erota vähemmän tärkeistä. Hyvää on myös vaatimusten jaottelu.
 
-
- - Onko sisältö kunnossa? (Tehtävänannon mukainen, järkevä laajuus
- - Mikä on hyvää tässä osassa?
- - Mikä on heikompaa ja miten sitä voisi kehittää?
 
 ###### Arvioitavat osiot
 
