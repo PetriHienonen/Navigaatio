@@ -42,6 +42,8 @@ Sisältö on asiallista ja tehtävänannon mukaista. Parasta tässä osiossa on 
  
  - Käyttöliittymä on esitelty selkeästi. Sisältö on tehtävänannon mukainen ja laajuudeltaan hyvä, sillä se esittelee kaikki (perus)käyttäjän näkemät näkymät. Osiossa mainitaan vielä järjestelmänvalvojalle näkyvä "feed" -näkymä, joka oltaisiin myös voitu kuvata muutenkin kuin vain sanallisesti.
  
+ - Projektissa on käytetty yksinkertaista laatikkomallia järjestelmäarkkitehtuurista. Se on kyllä selkeä, mutta kuvan alapuolelle olisi voinut kirjoittaa hieman enemmän tekstiä, selkeyttääkseen kuvan tapahtumia. 
+ 
 
 
  - Onko sisältö kunnossa? (Tehtävänannon mukainen, järkevä laajuus
